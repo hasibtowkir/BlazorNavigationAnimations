@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BlazorNavigationAnimations</id>
+    <version>1.0.1</version>
+    <authors>Hasibul Islam</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/hasibtowkir/BlazorNavigationAnimations</projectUrl>
+    <description>A Blazor package for smooth navigation animations.</description>
+    <repository type="git" url="https://github.com/hasibtowkir/BlazorNavigationAnimations" commit="9cd14928a93cff093fafe21c5484c761362987ca" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="8.0.8" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\towki\source\repos\BlazorNavigationAnimations\BlazorNavigationAnimations\bin\Release\net8.0\BlazorNavigationAnimations.dll" target="lib\net8.0\BlazorNavigationAnimations.dll" />
+    <file src="C:\Users\towki\source\repos\BlazorNavigationAnimations\BlazorNavigationAnimations\wwwroot\README.md" target="staticwebassets\README.md" />
+    <file src="C:\Users\towki\source\repos\BlazorNavigationAnimations\BlazorNavigationAnimations\wwwroot\animations.css" target="staticwebassets\animations.css" />
+    <file src="C:\Users\towki\source\repos\BlazorNavigationAnimations\BlazorNavigationAnimations\wwwroot\background.png" target="staticwebassets\background.png" />
+    <file src="C:\Users\towki\source\repos\BlazorNavigationAnimations\BlazorNavigationAnimations\wwwroot\navigationHelper.js" target="staticwebassets\navigationHelper.js" />
+    <file src="C:\Users\towki\source\repos\BlazorNavigationAnimations\BlazorNavigationAnimations\obj\Release\net8.0\staticwebassets\msbuild.BlazorNavigationAnimations.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" target="build\Microsoft.AspNetCore.StaticWebAssetEndpoints.props" />
+    <file src="C:\Users\towki\source\repos\BlazorNavigationAnimations\BlazorNavigationAnimations\obj\Release\net8.0\staticwebassets\msbuild.BlazorNavigationAnimations.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+    <file src="C:\Users\towki\source\repos\BlazorNavigationAnimations\BlazorNavigationAnimations\obj\Release\net8.0\staticwebassets\msbuild.build.BlazorNavigationAnimations.props" target="build\BlazorNavigationAnimations.props" />
+    <file src="C:\Users\towki\source\repos\BlazorNavigationAnimations\BlazorNavigationAnimations\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorNavigationAnimations.props" target="buildMultiTargeting\BlazorNavigationAnimations.props" />
+    <file src="C:\Users\towki\source\repos\BlazorNavigationAnimations\BlazorNavigationAnimations\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.BlazorNavigationAnimations.props" target="buildTransitive\BlazorNavigationAnimations.props" />
+  </files>
+</package>

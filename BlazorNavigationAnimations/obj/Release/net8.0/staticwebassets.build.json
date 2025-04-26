@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jUmUryQix7kWahShQGMPRCnEQN6VHpHAoQVlluAwX1k=",
+  "Hash": "RWeFraRwB2rIe71ZN9+d0wSMuXjiXEJZRufZTlliduE=",
   "Source": "BlazorNavigationAnimations",
   "BasePath": "_content/BlazorNavigationAnimations",
   "Mode": "Default",
@@ -10,87 +10,425 @@
     {
       "Name": "BlazorNavigationAnimations\\wwwroot",
       "Source": "BlazorNavigationAnimations",
-      "ContentRoot": "C:\\Users\\Towkir\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\",
       "BasePath": "_content/BlazorNavigationAnimations",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Towkir\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\animations.css",
+      "Identity": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\animations.css",
       "SourceId": "BlazorNavigationAnimations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Towkir\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\",
       "BasePath": "_content/BlazorNavigationAnimations",
-      "RelativePath": "animations.css",
+      "RelativePath": "animations#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "v98ndrcmu1",
+      "Integrity": "Xb3iCFya3aGe49q5XMmVAvcPdV3CaOCXGIqmteA1egA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\animations.css"
     },
     {
-      "Identity": "C:\\Users\\Towkir\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\background.png",
       "SourceId": "BlazorNavigationAnimations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Towkir\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\",
       "BasePath": "_content/BlazorNavigationAnimations",
-      "RelativePath": "background.png",
+      "RelativePath": "background#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "x2rx4ajns0",
+      "Integrity": "WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\Users\\Towkir\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\navigationHelper.js",
+      "Identity": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\navigationHelper.js",
       "SourceId": "BlazorNavigationAnimations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Towkir\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\",
       "BasePath": "_content/BlazorNavigationAnimations",
-      "RelativePath": "navigationHelper.js",
+      "RelativePath": "navigationHelper#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "rw2e17qmm6",
+      "Integrity": "xbwS81IxEG/hze5iA5KV9JPnHD9HrzbXa3qGgUJ0IYM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\navigationHelper.js"
     },
     {
-      "Identity": "C:\\Users\\Towkir\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\README.md",
+      "Identity": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\README.md",
       "SourceId": "BlazorNavigationAnimations",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Towkir\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\",
       "BasePath": "_content/BlazorNavigationAnimations",
-      "RelativePath": "README.md",
+      "RelativePath": "README#[.{fingerprint}]?.md",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "wum1ubo070",
+      "Integrity": "CGwYrqFwU+iNQqxlDwNnbAu/yDLED/xxaElZE2dxZOc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\README.md"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "animations.css",
+      "AssetFile": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\animations.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xb3iCFya3aGe49q5XMmVAvcPdV3CaOCXGIqmteA1egA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 15:36:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xb3iCFya3aGe49q5XMmVAvcPdV3CaOCXGIqmteA1egA="
+        }
+      ]
+    },
+    {
+      "Route": "animations.v98ndrcmu1.css",
+      "AssetFile": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\animations.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xb3iCFya3aGe49q5XMmVAvcPdV3CaOCXGIqmteA1egA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 15:36:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v98ndrcmu1"
+        },
+        {
+          "Name": "label",
+          "Value": "animations.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xb3iCFya3aGe49q5XMmVAvcPdV3CaOCXGIqmteA1egA="
+        }
+      ]
+    },
+    {
+      "Route": "background.png",
+      "AssetFile": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 15:36:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY="
+        }
+      ]
+    },
+    {
+      "Route": "background.x2rx4ajns0.png",
+      "AssetFile": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 15:36:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x2rx4ajns0"
+        },
+        {
+          "Name": "label",
+          "Value": "background.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY="
+        }
+      ]
+    },
+    {
+      "Route": "navigationHelper.js",
+      "AssetFile": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\navigationHelper.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xbwS81IxEG/hze5iA5KV9JPnHD9HrzbXa3qGgUJ0IYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 15:36:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xbwS81IxEG/hze5iA5KV9JPnHD9HrzbXa3qGgUJ0IYM="
+        }
+      ]
+    },
+    {
+      "Route": "navigationHelper.rw2e17qmm6.js",
+      "AssetFile": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\navigationHelper.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xbwS81IxEG/hze5iA5KV9JPnHD9HrzbXa3qGgUJ0IYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 15:36:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rw2e17qmm6"
+        },
+        {
+          "Name": "label",
+          "Value": "navigationHelper.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xbwS81IxEG/hze5iA5KV9JPnHD9HrzbXa3qGgUJ0IYM="
+        }
+      ]
+    },
+    {
+      "Route": "README.md",
+      "AssetFile": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CGwYrqFwU+iNQqxlDwNnbAu/yDLED/xxaElZE2dxZOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 15:36:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CGwYrqFwU+iNQqxlDwNnbAu/yDLED/xxaElZE2dxZOc="
+        }
+      ]
+    },
+    {
+      "Route": "README.wum1ubo070.md",
+      "AssetFile": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CGwYrqFwU+iNQqxlDwNnbAu/yDLED/xxaElZE2dxZOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 15:36:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wum1ubo070"
+        },
+        {
+          "Name": "label",
+          "Value": "README.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CGwYrqFwU+iNQqxlDwNnbAu/yDLED/xxaElZE2dxZOc="
+        }
+      ]
     }
   ]
 }

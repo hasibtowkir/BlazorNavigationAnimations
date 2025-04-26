@@ -19,6 +19,7 @@
 		<PackageProjectUrl>https://github.com/hasibtowkir/BlazorNavigationAnimations</PackageProjectUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+
 	</PropertyGroup>
 	
 	<ItemGroup>
