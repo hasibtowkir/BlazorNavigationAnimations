@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<RazorLangVersion>8.0</RazorLangVersion>
+		<RazorComponentLibraryStaticAssets>true</RazorComponentLibraryStaticAssets>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<!-- NuGet Package Metadata -->
+		<PackageId>BlazorNavigationAnimations</PackageId>
+		<Version>1.0.1</Version>
+		<Authors>Hasibul Islam</Authors>
+		<Description>A Blazor package for smooth navigation animations.</Description>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<RepositoryUrl>https://github.com/hasibtowkir/BlazorNavigationAnimations</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/hasibtowkir/BlazorNavigationAnimations</PackageProjectUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+	</PropertyGroup>
+	
+	<ItemGroup>
+		<SupportedPlatform Include="browser" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.8" />
+	</ItemGroup>
+
+</Project>

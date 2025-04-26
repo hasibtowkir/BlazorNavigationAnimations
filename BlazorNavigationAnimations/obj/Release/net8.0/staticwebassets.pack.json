@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Towkir\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\README.md",
+      "PackagePath": "staticwebassets\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Towkir\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\animations.css",
+      "PackagePath": "staticwebassets\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\Towkir\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\Towkir\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\navigationHelper.js",
+      "PackagePath": "staticwebassets\\navigationHelper.js"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.BlazorNavigationAnimations.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.BlazorNavigationAnimations.props",
+      "PackagePath": "build\\BlazorNavigationAnimations.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorNavigationAnimations.props",
+      "PackagePath": "buildMultiTargeting\\BlazorNavigationAnimations.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorNavigationAnimations.props",
+      "PackagePath": "buildTransitive\\BlazorNavigationAnimations.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

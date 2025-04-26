@@ -1,0 +1,30 @@
+﻿@using BlazorNavigationAnimations.Services
+@using Microsoft.JSInterop
+@inject NavigationAnimationService NavigationAnimationService
+@inject IJSRuntime JS
+
+<div class="content-container @animationClass">
+    @ChildContent
+</div>
+
+@code {
+    [Parameter] public RenderFragment ChildContent { get; set; } = default!;
+    private string animationClass = "slide-in";
+
+    protected override async Task OnInitializedAsync()
+    {
+        NavigationAnimationService.OnSlideOut += () =>
+        {
+            animationClass = "slide-out";
+            StateHasChanged();
+        };
+
+        NavigationAnimationService.OnSlideIn += () =>
+        {
+            animationClass = "slide-in";
+            StateHasChanged();
+        };
+
+        await NavigationAnimationService.InitializeJS();
+    }
+}

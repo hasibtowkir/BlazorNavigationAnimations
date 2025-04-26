@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C46F18A8-B6FA-439A-8CBE-7C314BFCD785}|BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj|c:\\users\\towki\\source\\repos\\blazornavigationanimations\\blazornavigationanimations\\components\\navigationcontainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C46F18A8-B6FA-439A-8CBE-7C314BFCD785}|BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj|solutionrelative:blazornavigationanimations\\components\\navigationcontainer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46F18A8-B6FA-439A-8CBE-7C314BFCD785}|BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj|c:\\users\\towki\\source\\repos\\blazornavigationanimations\\blazornavigationanimations\\services\\navigationanimationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46F18A8-B6FA-439A-8CBE-7C314BFCD785}|BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj|solutionrelative:blazornavigationanimations\\services\\navigationanimationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46F18A8-B6FA-439A-8CBE-7C314BFCD785}|BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj|c:\\users\\towki\\source\\repos\\blazornavigationanimations\\blazornavigationanimations\\wwwroot\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C46F18A8-B6FA-439A-8CBE-7C314BFCD785}|BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj|solutionrelative:blazornavigationanimations\\wwwroot\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46F18A8-B6FA-439A-8CBE-7C314BFCD785}|BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj|c:\\users\\towki\\source\\repos\\blazornavigationanimations\\blazornavigationanimations\\blazornavigationanimations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C46F18A8-B6FA-439A-8CBE-7C314BFCD785}|BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj|solutionrelative:blazornavigationanimations\\blazornavigationanimations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46F18A8-B6FA-439A-8CBE-7C314BFCD785}|BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj|c:\\users\\towki\\source\\repos\\blazornavigationanimations\\blazornavigationanimations\\wwwroot\\animations.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C46F18A8-B6FA-439A-8CBE-7C314BFCD785}|BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj|solutionrelative:blazornavigationanimations\\wwwroot\\animations.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46F18A8-B6FA-439A-8CBE-7C314BFCD785}|BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj|c:\\users\\towki\\source\\repos\\blazornavigationanimations\\blazornavigationanimations\\wwwroot\\navigationhelper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C46F18A8-B6FA-439A-8CBE-7C314BFCD785}|BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj|solutionrelative:blazornavigationanimations\\wwwroot\\navigationhelper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlazorNavigationAnimations.csproj",
+              "DocumentMoniker": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj",
+              "RelativeDocumentMoniker": "BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj",
+              "ToolTip": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj",
+              "RelativeToolTip": "BlazorNavigationAnimations\\BlazorNavigationAnimations.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T03:23:48.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavigationAnimationService.cs",
+              "DocumentMoniker": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\Services\\NavigationAnimationService.cs",
+              "RelativeDocumentMoniker": "BlazorNavigationAnimations\\Services\\NavigationAnimationService.cs",
+              "ToolTip": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\Services\\NavigationAnimationService.cs",
+              "RelativeToolTip": "BlazorNavigationAnimations\\Services\\NavigationAnimationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:19:19.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavigationContainer.razor",
+              "DocumentMoniker": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\Components\\NavigationContainer.razor",
+              "RelativeDocumentMoniker": "BlazorNavigationAnimations\\Components\\NavigationContainer.razor",
+              "ToolTip": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\Components\\NavigationContainer.razor",
+              "RelativeToolTip": "BlazorNavigationAnimations\\Components\\NavigationContainer.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T03:18:28.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAO0BAAAAAAAAAADgv/oBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-17T03:29:57.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\README.md",
+              "RelativeDocumentMoniker": "BlazorNavigationAnimations\\wwwroot\\README.md",
+              "ToolTip": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\README.md",
+              "RelativeToolTip": "BlazorNavigationAnimations\\wwwroot\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-17T03:32:36.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "animations.css",
+              "DocumentMoniker": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\animations.css",
+              "RelativeDocumentMoniker": "BlazorNavigationAnimations\\wwwroot\\animations.css",
+              "ToolTip": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\animations.css",
+              "RelativeToolTip": "BlazorNavigationAnimations\\wwwroot\\animations.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-17T03:17:09.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "navigationHelper.js",
+              "DocumentMoniker": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\navigationHelper.js",
+              "RelativeDocumentMoniker": "BlazorNavigationAnimations\\wwwroot\\navigationHelper.js",
+              "ToolTip": "C:\\Users\\towki\\source\\repos\\BlazorNavigationAnimations\\BlazorNavigationAnimations\\wwwroot\\navigationHelper.js",
+              "RelativeToolTip": "BlazorNavigationAnimations\\wwwroot\\navigationHelper.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-17T03:16:37.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
